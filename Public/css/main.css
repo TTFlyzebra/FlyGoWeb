@@ -2,7 +2,7 @@
 
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #fff;
+	background-color: #5F7F5F;
 	margin: 0;
 	padding: 0;
 	color: #000;
@@ -250,7 +250,6 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 200px;
 	min-height: 800px;
-	background: #5F7F5F;
 	overflow: hidden;
 }
 
@@ -259,7 +258,7 @@ a:hover, a:active, a:focus {
 	line-height: 70px;
 	width: 200px;
 	font-size: 28px;
-	color: #c0ff00;
+	color: #00007F;
 	background: #408080;
 	text-align: center;
 }
@@ -293,7 +292,7 @@ a:hover, a:active, a:focus {
 	display: block;
 	height: 38px;
 	line-height: 38px;
-	color: #c0ff00;
+	color: #00007f;
 	font-size: 22px;
 	font-weight: bold;
 	border-bottom: 1px solid #5F003F;
@@ -330,6 +329,7 @@ a:hover, a:active, a:focus {
 }
 
 .content {
+	background: #fff;
 	margin: 5px 5px 5px 206px;
 	padding: 5px 5px;
 	min-height: 800px;
